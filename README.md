@@ -18,6 +18,7 @@ Updated Breadcrumb List for Blogger Platform 2020
 </span>
 </div>
 </div>
+</b:if>
 <!--CUSTOM BREADCRUMB STOP-->
 ```
 See Details - [Fix Data-Vocabulary.Org Schema Deprecated Error In Blogger](https://www.compromath.com/2020/01/fix-data-vocabularyorg-schema.html "Fix Data-Vocabulary.Org Schema Deprecated Error In Blogger")
