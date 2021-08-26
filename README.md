@@ -1,5 +1,5 @@
 # Breadcrumb
-Updated Breadcrumb List for Blogger Platform 2020
+Updated Breadcrumb List for Blogger Platform 2021
 ```html
 <!--CUSTOM BREADCRUMB START-->
 <b:if cond='data:blog.pageType == "item"'>
